@@ -1,0 +1,1 @@
+# bernensia-spark-elasticsearch
