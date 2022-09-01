@@ -4,6 +4,6 @@ Project title: Volltextsuchmaschine für digitalisierte Bernensia - Proof of Con
 
 CAS Big Data 2021 / Bern University of Applied Sciences
 
-Kathi woitas, M.A.
+Kathi Woitas, M.A.
 
 2021-10-07
